@@ -1,0 +1,7 @@
+{
+    "greeting_message": "{greeting}, {user_first_name}. Me llamo {bot_name}, estoy aquí para ayudarte en la gestión del establecimiento. Aquí tienes la ID de este chat para futuras referencias:\n\n{chat_id}\n\nRecuerda que puedes autenticarte para acceder a las funcionalidades administrativas.🔐",
+    "menu_message": "Selecciona una de las opciones de administración a continuación ⬇:",
+    "auth_message": "Para autenticarte, accede al login del sistema administrativo del establecimiento. Te mostrará un login inicial, puedes registrarte con tu Correo o con Servicios Externos.",
+    "stats_message": "Las estadísticas del día se encuentran disponibles en el sistema administrativo en la sección Dashboard. Accede para revisar los reportes de ventas, productos más vendidos, y más.",
+    "inventory_message": "La gestión de inventarios permite ver el stock actual, añadir productos nuevos, y ajustar cantidades. Esta función está en la pestaña Productos del sistema."
+}
